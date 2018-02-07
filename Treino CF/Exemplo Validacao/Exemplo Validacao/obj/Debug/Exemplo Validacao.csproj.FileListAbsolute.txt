@@ -1,0 +1,41 @@
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\obj\Debug\Exemplo Validacao.csprojResolveAssemblyReference.cache
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\obj\Debug\Exemplo Validacao.csproj.CoreCompileInputs.cache
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Exemplo Validacao.dll.config
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Exemplo Validacao.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Exemplo Validacao.pdb
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Antlr3.Runtime.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.DependencyCollector.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.Web.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.WindowsServer.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.ApplicationInsights.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.Web.Infrastructure.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Newtonsoft.Json.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Helpers.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Mvc.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Optimization.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Razor.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.Deployment.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.Razor.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\WebGrease.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Helpers.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Mvc.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Optimization.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.Razor.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.Deployment.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\System.Web.WebPages.Razor.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Antlr3.Runtime.pdb
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Newtonsoft.Json.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.ApplicationInsights.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.DependencyCollector.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.WindowsServer.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\bin\Microsoft.AI.Web.xml
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\obj\Debug\Exemplo Validacao.dll
+F:\Fatec\Treinamento\Treino CF\Exemplo Validacao\Exemplo Validacao\obj\Debug\Exemplo Validacao.pdb
